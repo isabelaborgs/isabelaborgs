@@ -10,10 +10,10 @@
 
 * **Linguagens de programação:** JavaScript (Básico), Python (Básico), C# (Básico), Java (Básico)
 * **Tecnologias Back-end**: ASP.NET Core MVC (Básico), Entity Framework Core (Básico)
-* **Tecnologias Front-end**: HTML (Intermediário), CSS (Básico)
+* **Tecnologias Front-end**: HTML (Intermediário), CSS (Intermediário)
 * **Frameworks/Bibliotecas:** Bootstrap (Intermediário), Chartjs (Básico)
 * **Ferramentas:** Git, Visual Studio, VS Code
-* **Conceitos:** Programação Orientada a Objetos, Estruturas de Dados, Metodologias Ágeis (Scrum e Kanban), Versionamento de código 
+* **Conceitos:** Programação Orientada a Objetos, Estruturas de Dados, Metodologias Ágeis (Scrum e Kanban), Versionamento de código, Técnicas de Engenharia de Software, Modelagem de Dados
 
 ### Conecte-se Comigo 🤝
 
