@@ -8,12 +8,11 @@
 
 ### Minhas Habilidades 🛠️
 
-* **Linguagens de programação:** JavaScript (Básico), Python (Básico), C# (Básico), Java (Básico)
-* **Tecnologias Back-end**: ASP.NET Core MVC (Básico), Entity Framework Core (Básico)
-* **Tecnologias Front-end**: HTML (Intermediário), CSS (Intermediário)
-* **Frameworks/Bibliotecas:** Bootstrap (Intermediário), Chartjs (Básico)
-* **Ferramentas:** Git, Visual Studio, VS Code
-* **Conceitos:** Programação Orientada a Objetos, Estruturas de Dados, Metodologias Ágeis (Scrum e Kanban), Versionamento de código, Técnicas de Engenharia de Software, Modelagem de Dados
+* **Linguagens:** C#, Java, JavaScript, Python, HTML, CSS
+* **Frameworks/Bibliotecas**: ASP.NET Core, Entity Framework Core, Spring (Spring Boot, JPA, Spring Web, Eureka, Spring Cloud Gateway), Bootstrap, Lombok, jQuery, Chartjs
+* **Ferramentas:** Git/GitHub, Maven/Gradle, Visual Studio, VS Code, IntelliJ IDEA, Insomnia
+* **Padrões de Arquitetura**: MVC, REST, Microsserviços, Camadas
+* **Conceitos:** Lógica de Programação, Programação Orientada a Objetos, Estruturas de Dados, Metodologias Ágeis (Scrum e Kanban), Versionamento de Código, Técnicas de Engenharia de Software, Modelagem de Dados, Responsividade de Páginas, Documentação de Software
 
 ### Conecte-se Comigo 🤝
 
