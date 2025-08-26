@@ -1,10 +1,8 @@
 # Olá! Sou a Isabela 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas <br>
-👣 Psicóloga em processo de migração de carreira para a Tecnologia <br>
 💻 Apaixonada por desenvolvimento de software <br>
 📚 Constantemente me desafiando e buscando novos aprendizados <br>
-🔎 Em busca de oportunidades de trabalho, estágios ou colaborações como desenvolvedora <br>
 
 ### Minhas Habilidades 🛠️
 
